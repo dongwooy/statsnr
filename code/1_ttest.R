@@ -1,5 +1,5 @@
 # Import a csv file
-mice = read.csv("불러올 파일의 경로를 입력하시오")
+mice = read.csv(".../1_normal_mutant.csv")
 
 # Check if we imported a correct one
 print(mice)
