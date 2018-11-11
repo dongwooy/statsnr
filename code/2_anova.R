@@ -1,5 +1,5 @@
 # Import a csv file
-  gene1n2 <- read.csv("입력 파일의 경로")
+  gene1n2 <- read.csv(".../2_normal_mutant_double.csv")
 
 # Check if we imported correct one
   print(gene1n2)
