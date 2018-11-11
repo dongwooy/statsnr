@@ -1,5 +1,5 @@
 # Import the data file into R
-  xy = read.csv("파일경로/3_clustering.csv", header=T,sep=",")
+  xy = read.csv(".../3_clustering.csv", header=T,sep=",")
 
 # Check if we imported the datafile successfully
   prin(xy)
